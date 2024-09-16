@@ -4,6 +4,8 @@ using builtin [`logging`](https://docs.python.org/3/library/logging.html) to hel
 
 # Examples
 
+Directory [`example/`](./example/) contains some detailed examples which can be run with `python example/example.py`.
+
 The decorator can be used in 3 ways list below.
 
 ## Non-parameterized decorator
