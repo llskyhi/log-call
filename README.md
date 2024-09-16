@@ -60,6 +60,9 @@ log_call(bar, level=logging.WARNING)()
 Besides, the log message pair for a single callable invocation will be prefixed an unique identifier
 so that it's easy to identify the log range which the invocation produced.
 
+# Unit test
+A simple unit test can be run using `python -m unittest test`.
+
 # Notes
 
 ## Warning
